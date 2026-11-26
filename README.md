@@ -15,6 +15,8 @@ pwsh -NoProfile -File ./Optimize-LgTv.ps1
 
 O projeto usa o controle de rede da LG. Ele é voltado a TVs que disponibilizam SSAP pela porta local 3000. Os recursos e o caminho dos menus variam conforme o modelo e a versão do webOS. [Connect SDK da LG](https://connectsdk.com/en/latest/apis-and/and-webostvservice.html)
 
+Para pedir ajuda a uma IA que tenha acesso ao seu PC, copie o prompt e envie no chat. Ele começa pelo pareamento e pede suas escolhas antes de mexer na TV. [Prompt pronto para IA](PROMPT.md)
+
 ## Escolha o que ajustar
 
 O assistente mostra o modelo, lê a lista de apps e tenta consultar **Início Rápido+** e **Modo de imagem**. Depois ele pergunta sua prioridade.
